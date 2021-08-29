@@ -1,6 +1,6 @@
 <!--[![desi109](https://github.com/desi109/desi109/blob/master/banner.jpg)][0]-->
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=Kazalev&color=blue)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=Kazalev&color=blue)
 
 
 ### Hi there 👋
