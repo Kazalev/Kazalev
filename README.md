@@ -32,8 +32,10 @@
 
 ### 📊 Stats
 
-<p float="left">
+<a href="https://github.com/Kazalev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazalev&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Kristian Kazalev's github stats" /></a> <a href="https://github.com/Kazalev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazalev&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a>
+
+<div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=Kazalev&show_icons=true&theme=gruvbox" />
   <!-- <img src="https://streak-stats.demolab.com?user=Kazalev&theme=gruvbox&border_radius=4.5" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazalev&layout=compact" />
-</p>
+</div>
