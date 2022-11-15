@@ -34,6 +34,6 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kazalev&show_icons=true&theme=gruvbox" />
-  <img src="https://streak-stats.demolab.com?user=Kazalev&theme=gruvbox&border_radius=4.5" />
-  <img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazalev&layout=compact" />
+  <!-- <img src="https://streak-stats.demolab.com?user=Kazalev&theme=gruvbox&border_radius=4.5" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazalev&layout=compact" />
 </p>
