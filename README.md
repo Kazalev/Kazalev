@@ -2,7 +2,7 @@
 
 <p>I'm Kristian, Front End Developer 💻 from <img src="https://img.icons8.com/color/512/bulgaria-circular.png" width="13"/> <b>Bulgaria</b>.</p>
 
-- 🔭 Currently working as JavaSript Developer for KPMG IT Service
+- 🔭 Currently working as JavaScript Developer for KPMG IT Service
 - 🌱 Currently learning about MERN Stack
 - 🚀 Love to build things with JavaScript, React and Vue.js
 - ⚡ Passionate about programming, gym, football, DIY projects, games 
@@ -33,7 +33,7 @@
 ### 📊 Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazalev&show_icons=true&theme=gruvbox" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Kazalev&show_icons=true&theme=gruvbox" />
   <!-- <img src="https://streak-stats.demolab.com?user=Kazalev&theme=gruvbox&border_radius=4.5" /> -->
   <img width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazalev&layout=compact" />
 </p>
